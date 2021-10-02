@@ -1,0 +1,27 @@
+{
+  "name": "vue3-tailwind-carousel",
+  "version": "1.0.0",
+  "description": "Modern Vue 3 Carousel that works with tailwind classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jengtong/vue3-tailwind-carousel.git"
+  },
+  "keywords": [
+    "vue3",
+    "tailwind",
+    "carousel",
+    "responsive",
+    "mobile",
+    "friendly"
+  ],
+  "author": "Koo Jeng Tong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jengtong/vue3-tailwind-carousel/issues"
+  },
+  "homepage": "https://github.com/jengtong/vue3-tailwind-carousel#readme"
+}
