@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/jengtong/vue3-tailwind-carousel/issues"
   },
-  "homepage": "https://github.com/jengtong/vue3-tailwind-carousel#readme"
+  "homepage": "https://github.com/jengtong/vue3-tailwind-carousel#readme",
+  "dependencies": {
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.2.19",
+    "vue": "^3.2.19",
+    "vue-loader": "^15.9.8"
+  }
 }
